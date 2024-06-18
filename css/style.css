@@ -14,15 +14,15 @@ body {
   background-color: #eaeaea;
 }
 div {
-  width: 300px;
-  height: 300px;
+  width: 35dvw;
+  height: 35dvh;
   border: 3px solid #222;
 }
 input {
   font-size: 1.2rem;
   border: none;
-  padding: 0.5rem;
-  padding-left: 1rem;
+  padding: 0.5rem 0;
+  text-align: center;
   border-radius: 1rem;
 }
 
